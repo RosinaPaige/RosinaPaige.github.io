@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>package management on Bucket&#39;s Notes</title>
+    <link>http://rpaige.co.uk/tags/package-management/</link>
+    <description>Recent content in package management on Bucket&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://rpaige.co.uk/tags/package-management/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>managing packages</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/managing_packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/managing_packages/</guid>
+      <description>apt update then apt upgrade to update software apt install [package] dpkg -i [/path/to/package.deb] to install a .deb tar -xzvf [file.tar.gz] to unpack a tar add script in usr/bin to add program to dmenu #!/bin/sh /path/to/run/script apt show [package] check if a package is installed</description>
+    </item>
+    
+  </channel>
+</rss>

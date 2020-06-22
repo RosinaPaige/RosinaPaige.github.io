@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>command snippet on Bucket&#39;s Notes</title>
+    <link>http://rpaige.co.uk/tags/command-snippet/</link>
+    <description>Recent content in command snippet on Bucket&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://rpaige.co.uk/tags/command-snippet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>baby&#39;s first commands</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/babys_first_commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/babys_first_commands/</guid>
+      <description>pwd check current directory cd change directory ls see whats in this directory cat [file] to quickly view small files less [file] to quickly view large files nano [file] to quickly edit files Ctrl-C quit a program running in terminal mkdir [name] make a directory rm [name] delete a file rm -r [name] delete a directory and all contents cp [source] [destination] copy files around apt update then apt upgrade to update software apt install [package]</description>
+    </item>
+    
+    <item>
+      <title>checking system state</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/checking_system_state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/checking_system_state/</guid>
+      <description>htop check processes running lsb_release -a check linux version uname -a some more system specs inc OS and architecture deets cat /proc/version cat /proc/cpuinfo, lscpu look at cpu specs
+lspci / lshw | grep video  find out about the graphics card cat /proc/meminfo free -m check ram df -h free space on disk who roles -v finger</description>
+    </item>
+    
+    <item>
+      <title>managing packages</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/managing_packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/managing_packages/</guid>
+      <description>apt update then apt upgrade to update software apt install [package] dpkg -i [/path/to/package.deb] to install a .deb tar -xzvf [file.tar.gz] to unpack a tar add script in usr/bin to add program to dmenu #!/bin/sh /path/to/run/script apt show [package] check if a package is installed</description>
+    </item>
+    
+    <item>
+      <title>working with ssh</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/working_with_ssh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/working_with_ssh/</guid>
+      <description>scp (-i [key]) [source] [destination] remote location will need user@ip:/PATH ssh (-i [key]) [user@ip] key generation ssh-keygen -t ed25519 -f ~/.ssh/[name of key] cat [name of key].pub | nc [host] [port]</description>
+    </item>
+    
+  </channel>
+</rss>

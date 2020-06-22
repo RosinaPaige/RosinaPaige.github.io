@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bucket&#39;s Notes</title>
+    <link>http://rpaige.co.uk/theology/queer_theology/</link>
+    <description>Recent content on Bucket&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2020 14:43:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://rpaige.co.uk/theology/queer_theology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Defensive Theology Resources</title>
+      <link>http://rpaige.co.uk/theology/queer_theology/defensive_theology_resources/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/theology/queer_theology/defensive_theology_resources/</guid>
+      <description>An open letter to our fellow Christians who are anti-LGBTQ+ #  Scripture on sexuality #  Scripture on gender (wip) #  A book focused on sexuality #   Matthew Vines makes a compelling case for biblically-grounded responses to such questions as: How could traditional beliefs have been wrong for thousands of years on such an important topic? What is the story of Sodom and Gomorrah really saying about human relationships?</description>
+    </item>
+    
+    <item>
+      <title>Queer Theology Reading List</title>
+      <link>http://rpaige.co.uk/theology/queer_theology/reading_list/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/theology/queer_theology/reading_list/</guid>
+      <description>Books #   Marcella Althaus-Reid. The Queer God. New York, NY: Routledge, 2003. Susannah Cornwall. Controversies in Queer Theology. London, UK: SCM Press, 2011. Michel Foucault. The History of Sexuality, Volume 1. (you can read this online / download as pdf here) Jay Emerson Johnson. Peculiar Faith: Queer Theology for Christian Witness. New York, NY: Seabury Books, 2014. Dale B. Martin. Sex and the Single Savior: Gender and Sexuality in Biblical Interpretation.</description>
+    </item>
+    
+  </channel>
+</rss>

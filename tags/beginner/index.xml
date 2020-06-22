@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beginner on Bucket&#39;s Notes</title>
+    <link>http://rpaige.co.uk/tags/beginner/</link>
+    <description>Recent content in beginner on Bucket&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://rpaige.co.uk/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>baby&#39;s first commands</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/babys_first_commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/babys_first_commands/</guid>
+      <description>pwd check current directory cd change directory ls see whats in this directory cat [file] to quickly view small files less [file] to quickly view large files nano [file] to quickly edit files Ctrl-C quit a program running in terminal mkdir [name] make a directory rm [name] delete a file rm -r [name] delete a directory and all contents cp [source] [destination] copy files around apt update then apt upgrade to update software apt install [package]</description>
+    </item>
+    
+  </channel>
+</rss>

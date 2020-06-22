@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIYFluffies on Bucket&#39;s Notes</title>
+    <link>http://rpaige.co.uk/tags/diyfluffies/</link>
+    <description>Recent content in DIYFluffies on Bucket&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Feb 2020 14:43:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://rpaige.co.uk/tags/diyfluffies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Koala</title>
+      <link>http://rpaige.co.uk/sewing/koala/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/sewing/koala/</guid>
+      <description>Pattern by DIYFluffies/Mariska Vos-Bolman</description>
+    </item>
+    
+  </channel>
+</rss>

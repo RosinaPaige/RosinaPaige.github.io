@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bucket&#39;s Notes</title>
+    <link>http://rpaige.co.uk/</link>
+    <description>Recent content on Bucket&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jun 2020 14:43:21 +0100</lastBuildDate>
+    
+	<atom:link href="http://rpaige.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Squid Pouch</title>
+      <link>http://rpaige.co.uk/sewing/squid_pouch/</link>
+      <pubDate>Thu, 18 Jun 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/sewing/squid_pouch/</guid>
+      <description>Pattern by Choly Knight</description>
+    </item>
+    
+    <item>
+      <title>The List</title>
+      <link>http://rpaige.co.uk/the_list/</link>
+      <pubDate>Mon, 15 Jun 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/the_list/</guid>
+      <description>The list #     Interest Potential Reading Material     Christian Mysticism Essential Writings of Christian Mysticism    Revelations of Divine Love (Penguin Classics) by Julian of Norwich   Liberation theology On the Side of the Poor: The Theology of Liberation by Gustavo Gutierrez,    A Theology of Liberation by Gustavo Gutierrez    Jesus and the Disinherited by Howard Thurman   Queer theology The Queer God (God the Homosexual) by Marcella Althaus-Reid    Trans/Formations (Controversies in Contextual Theology) by Marcella Althaus-Reid   Body theology and thoughts on the incarnation    Disability theology Avery&amp;rsquo;s list + paper    Hull, John M.</description>
+    </item>
+    
+    <item>
+      <title>Defensive Theology Resources</title>
+      <link>http://rpaige.co.uk/theology/queer_theology/defensive_theology_resources/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/theology/queer_theology/defensive_theology_resources/</guid>
+      <description>An open letter to our fellow Christians who are anti-LGBTQ+ #  Scripture on sexuality #  Scripture on gender (wip) #  A book focused on sexuality #   Matthew Vines makes a compelling case for biblically-grounded responses to such questions as: How could traditional beliefs have been wrong for thousands of years on such an important topic? What is the story of Sodom and Gomorrah really saying about human relationships?</description>
+    </item>
+    
+    <item>
+      <title>Koala</title>
+      <link>http://rpaige.co.uk/sewing/koala/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/sewing/koala/</guid>
+      <description>Pattern by DIYFluffies/Mariska Vos-Bolman</description>
+    </item>
+    
+    <item>
+      <title>Queer Theology Reading List</title>
+      <link>http://rpaige.co.uk/theology/queer_theology/reading_list/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/theology/queer_theology/reading_list/</guid>
+      <description>Books #   Marcella Althaus-Reid. The Queer God. New York, NY: Routledge, 2003. Susannah Cornwall. Controversies in Queer Theology. London, UK: SCM Press, 2011. Michel Foucault. The History of Sexuality, Volume 1. (you can read this online / download as pdf here) Jay Emerson Johnson. Peculiar Faith: Queer Theology for Christian Witness. New York, NY: Seabury Books, 2014. Dale B. Martin. Sex and the Single Savior: Gender and Sexuality in Biblical Interpretation.</description>
+    </item>
+    
+    <item>
+      <title>Review and summary of Transgender - Theology, Ministry and Communities of Faith by Justin Tanis</title>
+      <link>http://rpaige.co.uk/theology/books/queer_theology/transgender_justin_tanis/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/theology/books/queer_theology/transgender_justin_tanis/</guid>
+      <description>Review and summary of Transgender - Theology, Ministry and Communities of Faith by Justin Tanis #  Review #  Transgender - Theology, Ministry and Communities of Faith was published in 2003, after starting life as Justin&amp;rsquo;s doctoral thesis. Despite being a little outdated in it&amp;rsquo;s language and its lack of focus on the non-binary experience, it is an excellent text, and gives a marvelous introduction to many of the themes of trans and queer theology.</description>
+    </item>
+    
+    <item>
+      <title>baby&#39;s first commands</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/babys_first_commands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/babys_first_commands/</guid>
+      <description>pwd check current directory cd change directory ls see whats in this directory cat [file] to quickly view small files less [file] to quickly view large files nano [file] to quickly edit files Ctrl-C quit a program running in terminal mkdir [name] make a directory rm [name] delete a file rm -r [name] delete a directory and all contents cp [source] [destination] copy files around apt update then apt upgrade to update software apt install [package]</description>
+    </item>
+    
+    <item>
+      <title>checking system state</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/checking_system_state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/checking_system_state/</guid>
+      <description>htop check processes running lsb_release -a check linux version uname -a some more system specs inc OS and architecture deets cat /proc/version cat /proc/cpuinfo, lscpu look at cpu specs
+lspci / lshw | grep video  find out about the graphics card cat /proc/meminfo free -m check ram df -h free space on disk who roles -v finger</description>
+    </item>
+    
+    <item>
+      <title>managing packages</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/managing_packages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/managing_packages/</guid>
+      <description>apt update then apt upgrade to update software apt install [package] dpkg -i [/path/to/package.deb] to install a .deb tar -xzvf [file.tar.gz] to unpack a tar add script in usr/bin to add program to dmenu #!/bin/sh /path/to/run/script apt show [package] check if a package is installed</description>
+    </item>
+    
+    <item>
+      <title>working with ssh</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/working_with_ssh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/working_with_ssh/</guid>
+      <description>scp (-i [key]) [source] [destination] remote location will need user@ip:/PATH ssh (-i [key]) [user@ip] key generation ssh-keygen -t ed25519 -f ~/.ssh/[name of key] cat [name of key].pub | nc [host] [port]</description>
+    </item>
+    
+  </channel>
+</rss>

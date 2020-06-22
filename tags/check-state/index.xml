@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>check state on Bucket&#39;s Notes</title>
+    <link>http://rpaige.co.uk/tags/check-state/</link>
+    <description>Recent content in check state on Bucket&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://rpaige.co.uk/tags/check-state/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>checking system state</title>
+      <link>http://rpaige.co.uk/tech/linux_commands/checking_system_state/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rpaige.co.uk/tech/linux_commands/checking_system_state/</guid>
+      <description>htop check processes running lsb_release -a check linux version uname -a some more system specs inc OS and architecture deets cat /proc/version cat /proc/cpuinfo, lscpu look at cpu specs
+lspci / lshw | grep video  find out about the graphics card cat /proc/meminfo free -m check ram df -h free space on disk who roles -v finger</description>
+    </item>
+    
+  </channel>
+</rss>
