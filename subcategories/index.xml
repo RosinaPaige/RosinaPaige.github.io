@@ -6,7 +6,7 @@
     <description>Recent content in Subcategories on Bucket&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 14:43:21 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2020 14:43:21 +0100</lastBuildDate>
     
 	<atom:link href="http://rpaige.co.uk/subcategories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Plush</title>
       <link>http://rpaige.co.uk/subcategories/plush/</link>
-      <pubDate>Thu, 18 Jun 2020 14:43:21 +0100</pubDate>
+      <pubDate>Wed, 19 Aug 2020 14:43:21 +0100</pubDate>
       
       <guid>http://rpaige.co.uk/subcategories/plush/</guid>
       <description></description>
@@ -35,6 +35,15 @@
       <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
       
       <guid>http://rpaige.co.uk/subcategories/queer-theology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Star Trek</title>
+      <link>http://rpaige.co.uk/subcategories/star-trek/</link>
+      <pubDate>Fri, 21 Feb 2020 14:43:21 +0100</pubDate>
+      
+      <guid>http://rpaige.co.uk/subcategories/star-trek/</guid>
       <description></description>
     </item>
     

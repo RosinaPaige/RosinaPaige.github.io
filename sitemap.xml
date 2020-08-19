@@ -4,47 +4,52 @@
   
   <url>
     <loc>http://rpaige.co.uk/</loc>
-    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://rpaige.co.uk/categories/</loc>
-    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://rpaige.co.uk/tags/choly-knight/</loc>
-    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rpaige.co.uk/sewing/izuku_midoriya/</loc>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://rpaige.co.uk/subcategories/plush/</loc>
-    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://rpaige.co.uk/categories/sewing/</loc>
-    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://rpaige.co.uk/sewing/</loc>
-    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://rpaige.co.uk/sewing/squid_pouch/</loc>
-    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://rpaige.co.uk/subcategories/</loc>
-    <lastmod>2020-06-18T14:43:21+01:00</lastmod>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://rpaige.co.uk/tags/</loc>
+    <lastmod>2020-08-19T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rpaige.co.uk/sewing/squid_pouch/</loc>
     <lastmod>2020-06-18T14:43:21+01:00</lastmod>
   </url>
   
@@ -103,6 +108,21 @@
   </url>
   
   <url>
+    <loc>http://rpaige.co.uk/docs/</loc>
+    <lastmod>2020-02-21T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rpaige.co.uk/tags/episode-guide/</loc>
+    <lastmod>2020-02-21T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rpaige.co.uk/categories/fandom/</loc>
+    <lastmod>2020-02-21T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rpaige.co.uk/tags/justin-tanis/</loc>
     <lastmod>2020-02-21T14:43:21+01:00</lastmod>
   </url>
@@ -138,7 +158,22 @@
   </url>
   
   <url>
+    <loc>http://rpaige.co.uk/subcategories/star-trek/</loc>
+    <lastmod>2020-02-21T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://rpaige.co.uk/categories/theology/</loc>
+    <lastmod>2020-02-21T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rpaige.co.uk/tags/tng/</loc>
+    <lastmod>2020-02-21T14:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://rpaige.co.uk/docs/tng/</loc>
     <lastmod>2020-02-21T14:43:21+01:00</lastmod>
   </url>
   
@@ -165,10 +200,6 @@
   
   <url>
     <loc>http://rpaige.co.uk/tags/command-snippet/</loc>
-  </url>
-  
-  <url>
-    <loc>http://rpaige.co.uk/docs/</loc>
   </url>
   
   <url>
